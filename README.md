@@ -17,5 +17,3 @@ PROFESSIONAL EXPERIENCE<br>Senior consultant - system managment in a bank | 09.2
 
 ---
 [![](https://komarev.com/ghpvc/?username=MikolajSzabranskiBR&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
