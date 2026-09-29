@@ -1,5 +1,5 @@
 # 💫 About Me:
-SKILLS AND TECHNOLOGIES<br>    • Programming languages: Java, Python, Groovy, C++, C#, JavaScript, SQL<br>    • Frameworks and libraries: Spring, Spring Boot, Django, WPF, Windows Forms, Maven, jOOQ, Hibernate<br>    • Enterprise Technologies: IBM AppConnect, IBM BAW, WebSphere, FileNet, BPMN<br>    • DevOps and Tools: Docker, Git, GitLab, Azure DevOps, Jira, PostgreSQL, Oracle APEX<br>    • AI-Assisted Coding: GitHub Copilot, Prompt Engineering<br>    • Languages: English – B2, Polish – native <br>PROFESSIONAL EXPERIENCE<br>Senior consultant - system managment in a bank | 09.2026 – present<br>Developer | 12.2024 – 05.2026<br>Junior Developer | 07.2022 – 09.2023<br>
+PROFESSIONAL EXPERIENCE<br>Senior consultant - system managment in a bank | 09.2026 – present<br>Developer | 12.2024 – 05.2026<br>Junior Developer | 07.2022 – 09.2023<br>
 
 
 ## 🌐 Socials:
