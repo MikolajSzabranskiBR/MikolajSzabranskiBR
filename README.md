@@ -11,11 +11,20 @@
 
 ### 💼 Experience
 
-| Role | Period |
-|---|---|
-| Senior Consultant — System Management in a Bank | 09.2026–present |
-| Developer | 12.2024–05.2026 |
-| Junior Developer | 07.2022–09.2023 |
+<table>
+  <tr>
+    <td><strong>Senior Consultant</strong><br><sub>System Management in a Bank</sub></td>
+    <td align="right"><code>09.2026 — present</code></td>
+  </tr>
+  <tr>
+    <td><strong>Developer</strong></td>
+    <td align="right"><code>12.2024 — 05.2026</code></td>
+  </tr>
+  <tr>
+    <td><strong>Junior Developer</strong></td>
+    <td align="right"><code>07.2022 — 09.2023</code></td>
+  </tr>
+</table>
 
 ### 🧰 Technologies
 
